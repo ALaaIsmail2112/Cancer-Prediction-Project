@@ -49,11 +49,15 @@ The app enables users to:
 </p>
 
 <p align="center">
-  <b>Positive</b><br />
-  <img src="https://github.com/user-attachments/assets/3e865b4b-b537-4d73-ab94-646330812e16" alt="Positive" width="200" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Negative</b><br />
-  <img src="https://github.com/user-attachments/assets/2cff5c06-98d7-4659-a1fd-3b123d6383dd" alt="Negative" width="200" />
+  <span style="display: inline-block; text-align: center; margin-right: 40px;">
+    <b>Positive</b><br />
+    <img src="https://github.com/user-attachments/assets/3e865b4b-b537-4d73-ab94-646330812e16" alt="Positive" width="200" />
+  </span>
+  
+  <span style="display: inline-block; text-align: center;">
+    <b>Negative</b><br />
+    <img src="https://github.com/user-attachments/assets/2cff5c06-98d7-4659-a1fd-3b123d6383dd" alt="Negative" width="200" />
+  </span>
 </p>
 
 
