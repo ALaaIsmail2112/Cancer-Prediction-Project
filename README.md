@@ -44,30 +44,18 @@ The app enables users to:
 ---
 ## 📸 Screenshots
 
-<div align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5fae6adf-09e1-41c8-b839-536bd77a9b9a" alt="Large Screenshot" width="600" />
+</p>
 
-  <!-- الصورة الكبيرة -->
-  <img src="https://github.com/user-attachments/assets/5fae6adf-09e1-41c8-b839-536bd77a9b9a" alt="Large Screenshot" width="600" style="margin: 10px;" />
+<p align="center">
+  <b>Positive</b><br />
+  <img src="https://github.com/user-attachments/assets/3e865b4b-b537-4d73-ab94-646330812e16" alt="Positive" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Negative</b><br />
+  <img src="https://github.com/user-attachments/assets/2cff5c06-98d7-4659-a1fd-3b123d6383dd" alt="Negative" width="200" />
+</p>
 
-
-  <br/>
-
-  <!-- الصورة الصغيرة مع تعليق فوقها -->
-  <div style="display: flex; justify-content: center; gap: 40px; margin-top: 20px;">
-
-    <div style="text-align: center;">
-      <p><strong>Positive</strong></p>
-      <img src="https://github.com/user-attachments/assets/3e865b4b-b537-4d73-ab94-646330812e16" alt="Positive Screenshot" width="200" style="border: 2px solid green; border-radius: 8px;" />
-    </div>
-
-    <div style="text-align: center;">
-      <p><strong>Negative</strong></p>
-      <img src="https://github.com/user-attachments/assets/2cff5c06-98d7-4659-a1fd-3b123d6383dd" alt="Negative Screenshot" width="200" style="border: 2px solid red; border-radius: 8px;" />
-    </div>
-
-  </div>
-  
-</div>
 
 
 🤝 Contribution
